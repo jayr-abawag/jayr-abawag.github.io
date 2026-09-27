@@ -1,0 +1,1 @@
+const a={location:{area:"Pobl. 4, Paranas",region:"Western Samar"},education:{degree:"BSIT",school:"Southwestern University of Cebu"},githubUrl:"https://github.com/jayr-abawag",linkedInUrl:"https://www.linkedin.com/in/jayr-abawag",email:"jayrabawag@gmail.com"};export{a as p};
